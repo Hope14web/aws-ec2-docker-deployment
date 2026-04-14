@@ -1,0 +1,7 @@
+name = "zero-trust-vault"
+main = "index.js"
+compatibility_date = "2024-03-25"
+
+[[kv_namespaces]]
+binding = "VAULT_KV"
+id = "797c2c7a324f4a018e49f133495566cf"
