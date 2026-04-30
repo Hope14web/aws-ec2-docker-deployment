@@ -31,3 +31,5 @@ Runtime: Cloudflare Workers
 Database: Cloudflare KV (Edge Storage)
 
 Frontend: Vanilla JS, HTML5, CSS3 
+live link
+https://zero-trust-vault.hopemwendwa22.workers.dev/
